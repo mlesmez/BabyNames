@@ -1,1 +1,2 @@
 # BabyNames
+There is coma delimitated data based on social security records for babies born from 1879 to 2019 available to the everyone. Each year is in a different file and they are ordered name, gender, number of babies born with that name that year. The user decides what they want to search by, such as name and gender to see what year that name was most popular, year and gender for what the most common name was for a gender that year, or name gender and year to see how popular a name was for a given year.
